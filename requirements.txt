@@ -1,0 +1,12 @@
+accelerate>=1.4.0
+datasets>=3.3.0
+evaluate>=0.4.3
+nltk>=3.9.1
+numpy>=2.2.3
+peft>=0.14.0
+pillow>=11.1.0
+pyyaml>=6.0.2
+rouge-score>=0.1.2
+safetensors>=0.5.3
+torch>=2.6.0
+transformers>=4.49.0
